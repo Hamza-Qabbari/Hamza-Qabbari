@@ -15,9 +15,9 @@ I am a **Computer Science Student** at Alexandria University (FCDS), majoring in
 ---
 
 ### ⚡ Fun Facts
-I use Linux Mint BTW 🐧
-Coffee lover 
-Zodiac is the best movie. FIGHT ME!
+* I use Linux Mint BTW 🐧
+* Coffee lover 
+* Zodiac is the best movie. FIGHT ME!
 
 
 ---
