@@ -15,7 +15,7 @@ I am a **Computer Science Student** at Alexandria University (FCDS), majoring in
 ---
 
 ### ⚡ Fun Facts
-* I use Linux Mint BTW 🐧
+* I use Arch BTW 🐧
 * Coffee lover 
 * Zodiac is the best movie. FIGHT ME!
 
