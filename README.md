@@ -1,4 +1,4 @@
-### Hi there, I'm Hamza Hassan 👋
+### Hi there, I'm Hamza Qabbari 👋
 
 I am a **Computer Science Student** at Alexandria University (FCDS), majoring in **Artificial Intelligence**. I am passionate about building intelligent models and understanding the mathematics behind Deep Learning.
 
